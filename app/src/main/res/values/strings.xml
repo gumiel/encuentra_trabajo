@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Encuentra trabajo</string>
+    <string name="title_activity_main_action_bar">MainActionBarActivity</string>
+    <string name="title_activity_main_dos_action_bar">MainDosActionBarActivity</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="postear_trabajo">Postear Trabajo</string>
+</resources>
